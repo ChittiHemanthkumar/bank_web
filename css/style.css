@@ -6,6 +6,7 @@
     height: 240px;
     width: 1345px;
     margin: right 2rem; 
+    overflow-x:hidden;
     
     background: url("../images/Bimage.jpg"); 
     background-size: cover;
